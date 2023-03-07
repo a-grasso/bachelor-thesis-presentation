@@ -1,2 +1,2 @@
 # bachelor-thesis-presentation
-Presentation of my bachelor thesis using marpit
+Presentation slides of my bachelor thesis using [Marpit](https://marpit.marp.app/)
