@@ -64,8 +64,8 @@ in management, development & planning
 ---
 
 - ***Solution***:
-mitigating the impact of consequences from
-end-of-support dependency
+mitigating the impact of consequences 
+from end-of-support dependency
 
 ---
 
@@ -102,14 +102,130 @@ project-based <> automation <> independence
 
 ---
 
+***EOS Abstraction Framework***
+<br>
 ![width:1000px](eos-factors.drawio.png)
 
 ---
 
-Requirements Analysis
+***EOS Factor*** |&rarr; ***Statements*** |&rarr; ***Signals & Metrics***
 
 ---
 
-Technical Concept
+# Requirements Analysis
 
 ---
+
+- applicability in practice
+<br>
+- suitability for effective use
+<br>
+
+***-> project-based & automation***
+
+---
+
+- achieve continuance
+<br>
+- enable further proceedings
+
+<br>
+
+***-> independence***
+
+---
+
+# Technical Concept
+
+---
+
+- software bill of materials (sboms)
+
+---
+
+- extraction
+
+---
+
+- data model
+
+---
+
+- combination and conclusion
+
+( EOS Abstraction Framework )
+
+---
+
+- &darr; extraction
+<br>
+- &darr; data model
+<br>
+- &darr; combination and conclusion
+<br>
+- &rarr; ***agent***
+
+---
+
+# deprec
+
+---
+
+- integrating the theoretical concept
+<br>
+- implementing the technical concept
+
+---
+
+- [open source](https://github.com/a-grasso/deprec)
+
+---
+
+written in
+<br>
+
+![width:500px](golang.png)
+
+---
+
+supported dependencies
+<br>
+
+![width:800px](maven.png)
+
+---
+
+extracted data
+<br>
+
+![width:300px](github.svg)
+## GitHub
+
+---
+
+extracted data
+<br>
+
+![width:1000px](sonatype.png)
+
+---
+
+# deprec-cli
+
+---
+
+```bash
+$> deprec-cli <sbom> <opts>
+```
+
+---
+
+- [open source](https://github.com/a-grasso/deprec-cli)
+
+---
+
+![width:500px](golang.png)
+
+---
+
+# LIVE DEMO TIME
