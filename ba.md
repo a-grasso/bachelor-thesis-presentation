@@ -35,7 +35,7 @@ in management, development & planning
 ---
 
 ... e.g. **issues** with, and **concerns** about
-
+<br>
 - common vulnerabilities and exposures
     - compliance
 - stability
@@ -50,10 +50,10 @@ in management, development & planning
 ---
 
 ... **consequenting** 
-
+<br>
 - replacement
 
-- upgrading
+- upgrades
 
 - independent fixes and patches
 
@@ -104,6 +104,7 @@ project-based <> automation <> independence
 
 ***EOS Abstraction Framework***
 <br>
+
 ![width:1000px](eos-factors.drawio.png)
 
 ---
@@ -128,7 +129,6 @@ project-based <> automation <> independence
 - achieve continuance
 <br>
 - enable further proceedings
-
 <br>
 
 ***-> independence***
@@ -140,10 +140,15 @@ project-based <> automation <> independence
 ---
 
 - software bill of materials (sboms)
+&rarrhk; [CycloneDX](https://cyclonedx.org/)
 
 ---
 
 - extraction
+
+---
+
+![width:1000px](extraction.png)
 
 ---
 
@@ -157,16 +162,6 @@ project-based <> automation <> independence
 
 ---
 
-- &darr; extraction
-<br>
-- &darr; data model
-<br>
-- &darr; combination and conclusion
-<br>
-- &rarr; ***agent***
-
----
-
 # deprec
 
 ---
@@ -177,7 +172,7 @@ project-based <> automation <> independence
 
 ---
 
-- [open source](https://github.com/a-grasso/deprec)
+[open source](https://github.com/a-grasso/deprec)
 
 ---
 
@@ -188,14 +183,16 @@ written in
 
 ---
 
-supported dependencies
+supporting dependencies
+from
 <br>
 
 ![width:800px](maven.png)
 
 ---
 
-extracted data
+extracting data
+from
 <br>
 
 ![width:300px](github.svg)
@@ -203,7 +200,8 @@ extracted data
 
 ---
 
-extracted data
+extracting data
+from
 <br>
 
 ![width:1000px](sonatype.png)
@@ -220,9 +218,12 @@ $> deprec-cli <sbom> <opts>
 
 ---
 
-- [open source](https://github.com/a-grasso/deprec-cli)
+[open source](https://github.com/a-grasso/deprec-cli)
 
 ---
+
+written in
+<br>
 
 ![width:500px](golang.png)
 
