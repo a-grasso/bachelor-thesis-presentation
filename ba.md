@@ -4,6 +4,8 @@ theme: uncover
 class: invert
 ----
 
+presentation 09.03.2023
+
 # Construction of a software solution for detection of end-of-support dependencies
 
 ---
@@ -230,3 +232,7 @@ written in
 ---
 
 # LIVE DEMO TIME
+
+--- 
+
+# THANKS 
