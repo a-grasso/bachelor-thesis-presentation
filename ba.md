@@ -82,7 +82,7 @@ to detect end-of-support dependencies
 ---
 
 - ***How***:
-project-based <> automation <> independence
+conception &rarr; requirements &rarr; design &rarr; implementation &rarr; evaluation
 
 ---
 
@@ -107,7 +107,7 @@ project-based <> automation <> independence
 ***EOS Abstraction Framework***
 <br>
 
-![width:1000px](eos-factors.drawio.png)
+![width:1000px](eos-factors.png)
 
 ---
 
@@ -168,13 +168,13 @@ project-based <> automation <> independence
 
 ---
 
-- integrating the theoretical concept
+- integrating the **theoretical** concept
 <br>
-- implementing the technical concept
+- implementing the **technical** concept
 
 ---
 
-[open source](https://github.com/a-grasso/deprec)
+# [open source](https://github.com/a-grasso/deprec)
 
 ---
 
@@ -220,7 +220,7 @@ $> deprec-cli <sbom> <opts>
 
 ---
 
-[open source](https://github.com/a-grasso/deprec-cli)
+# [open source](https://github.com/a-grasso/deprec-cli)
 
 ---
 
@@ -228,10 +228,6 @@ written in
 <br>
 
 ![width:500px](golang.png)
-
----
-
-# LIVE DEMO TIME
 
 --- 
 
