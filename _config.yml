@@ -1,0 +1,8 @@
+plugins:
+  - jekyll-relative-links
+remote_theme: benbalter/retlab
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - index.html
