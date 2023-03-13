@@ -107,7 +107,7 @@ conception &rarr; requirements &rarr; design &rarr; implementation &rarr; evalua
 ***EOS Abstraction Framework***
 <br>
 
-![width:1000px](eos-factors.png)
+![width:1000px](images/eos-factors.png)
 
 ---
 
@@ -150,7 +150,7 @@ conception &rarr; requirements &rarr; design &rarr; implementation &rarr; evalua
 
 ---
 
-![width:1000px](extraction.png)
+![width:1000px](images/extraction.png)
 
 ---
 
@@ -181,7 +181,7 @@ conception &rarr; requirements &rarr; design &rarr; implementation &rarr; evalua
 written in
 <br>
 
-![width:500px](golang.png)
+![width:500px](images/golang.png)
 
 ---
 
@@ -189,7 +189,7 @@ supporting dependencies
 from
 <br>
 
-![width:800px](maven.png)
+![width:800px](images/maven.png)
 
 ---
 
@@ -197,7 +197,7 @@ extracting data
 from
 <br>
 
-![width:300px](github.svg)
+![width:300px](images/github.svg)
 ## GitHub
 
 ---
@@ -206,7 +206,7 @@ extracting data
 from
 <br>
 
-![width:1000px](sonatype.png)
+![width:1000px](images/sonatype.png)
 
 ---
 
@@ -227,7 +227,7 @@ $> deprec-cli <sbom> <opts>
 written in
 <br>
 
-![width:500px](golang.png)
+![width:500px](images/golang.png)
 
 --- 
 
